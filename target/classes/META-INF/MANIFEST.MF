@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: StudentList
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Korisnik
+Built-By: Kaljo
 Implementation-Vendor-Id: com.Nenad
 Build-Jdk: 1.8.0_161
 Implementation-URL: http://maven.apache.org
