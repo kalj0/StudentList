@@ -32,4 +32,9 @@ public class StudentDao {
 		return this.students.values();
 	}
 	
+	
+	public Student getStudentById(int id) {
+		return this.students.get(id);
+	}
+	
 }
